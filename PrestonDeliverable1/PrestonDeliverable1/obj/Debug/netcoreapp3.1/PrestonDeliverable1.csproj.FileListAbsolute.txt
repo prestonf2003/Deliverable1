@@ -1,0 +1,14 @@
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable1\PrestonDeliverable1\obj\Debug\netcoreapp3.1\PrestonDeliverable1.csproj.AssemblyReference.cache
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable1\PrestonDeliverable1\obj\Debug\netcoreapp3.1\PrestonDeliverable1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable1\PrestonDeliverable1\obj\Debug\netcoreapp3.1\PrestonDeliverable1.AssemblyInfoInputs.cache
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable1\PrestonDeliverable1\obj\Debug\netcoreapp3.1\PrestonDeliverable1.AssemblyInfo.cs
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable1\PrestonDeliverable1\obj\Debug\netcoreapp3.1\PrestonDeliverable1.csproj.CoreCompileInputs.cache
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable1\PrestonDeliverable1\bin\Debug\netcoreapp3.1\PrestonDeliverable1.exe
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable1\PrestonDeliverable1\bin\Debug\netcoreapp3.1\PrestonDeliverable1.deps.json
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable1\PrestonDeliverable1\bin\Debug\netcoreapp3.1\PrestonDeliverable1.runtimeconfig.json
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable1\PrestonDeliverable1\bin\Debug\netcoreapp3.1\PrestonDeliverable1.runtimeconfig.dev.json
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable1\PrestonDeliverable1\bin\Debug\netcoreapp3.1\PrestonDeliverable1.dll
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable1\PrestonDeliverable1\bin\Debug\netcoreapp3.1\PrestonDeliverable1.pdb
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable1\PrestonDeliverable1\obj\Debug\netcoreapp3.1\PrestonDeliverable1.dll
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable1\PrestonDeliverable1\obj\Debug\netcoreapp3.1\PrestonDeliverable1.pdb
+C:\Users\pmanf\Documents\Prework\PrestonDeliverable1\PrestonDeliverable1\obj\Debug\netcoreapp3.1\PrestonDeliverable1.genruntimeconfig.cache
